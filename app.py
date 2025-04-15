@@ -8,7 +8,20 @@ app = Flask(__name__)
 
 model2 = joblib.load("recommendation_model.pkl")
 
-interactions_df = pd.read_csv('interactions.csv')
+def fetch_interactions():
+    try:
+        url = "https://017f-41-90-101-26.ngrok-free.app/api/progress/all"  
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+        return pd.DataFrame(data)
+    except Exception as e:
+        print(f"Error fetching data from backend: {e}")
+        return pd.DataFrame(columns=["student_id", "course_id", "rating"])
+
+
+interactions_df = fetch_interactions()
+
 
 unique_students = interactions_df['student_id'].unique()
 student_id_mapping = {id_: i for i, id_ in enumerate(unique_students)}
