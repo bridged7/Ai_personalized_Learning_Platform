@@ -1,0 +1,1514 @@
+student_id,course_id,course_name,enrollment_status,rating
+s1,c4,Corporate Governance and Ethics,enrolled,
+s1,c1,Business Communication,completed,1.0
+s2,c1,Business Communication,enrolled,
+s3,c1,Business Communication,completed,3.0
+s4,c3,Organizational Behavior,enrolled,
+s4,c4,Corporate Governance and Ethics,completed,2.0
+s5,c1,Business Communication,enrolled,
+s6,c2,Strategic management,enrolled,
+s7,c2,Strategic management,enrolled,
+s7,c1,Business Communication,completed,2.0
+s8,c2,Strategic management,enrolled,
+s8,c1,Business Communication,enrolled,
+s9,c1,Business Communication,completed,2.0
+s9,c4,Corporate Governance and Ethics,completed,3.0
+s10,c1,Business Communication,completed,1.0
+s11,c2,Strategic management,completed,5.0
+s11,c3,Organizational Behavior,completed,3.0
+s12,c3,Organizational Behavior,completed,4.0
+s13,c3,Organizational Behavior,completed,3.0
+s13,c2,Strategic management,completed,5.0
+s14,c4,Corporate Governance and Ethics,completed,1.0
+s15,c2,Strategic management,completed,5.0
+s15,c1,Business Communication,enrolled,
+s16,c4,Corporate Governance and Ethics,completed,3.0
+s17,c3,Organizational Behavior,enrolled,
+s17,c2,Strategic management,completed,3.0
+s18,c1,Business Communication,completed,4.0
+s18,c4,Corporate Governance and Ethics,enrolled,
+s19,c2,Strategic management,completed,2.0
+s19,c4,Corporate Governance and Ethics,completed,3.0
+s20,c4,Corporate Governance and Ethics,completed,5.0
+s20,c3,Organizational Behavior,enrolled,
+s21,c4,Corporate Governance and Ethics,enrolled,
+s21,c1,Business Communication,completed,2.0
+s22,c4,Corporate Governance and Ethics,enrolled,
+s22,c1,Business Communication,enrolled,
+s23,c2,Strategic management,completed,4.0
+s24,c1,Business Communication,enrolled,
+s24,c3,Organizational Behavior,enrolled,
+s25,c3,Organizational Behavior,enrolled,
+s25,c4,Corporate Governance and Ethics,enrolled,
+s26,c4,Corporate Governance and Ethics,completed,3.0
+s26,c3,Organizational Behavior,enrolled,
+s27,c1,Business Communication,completed,2.0
+s28,c4,Corporate Governance and Ethics,completed,4.0
+s29,c3,Organizational Behavior,enrolled,
+s30,c4,Corporate Governance and Ethics,completed,5.0
+s30,c2,Strategic management,enrolled,
+s31,c1,Business Communication,completed,1.0
+s32,c3,Organizational Behavior,enrolled,
+s32,c1,Business Communication,completed,5.0
+s33,c1,Business Communication,enrolled,
+s34,c1,Business Communication,enrolled,
+s34,c4,Corporate Governance and Ethics,enrolled,
+s35,c2,Strategic management,enrolled,
+s35,c4,Corporate Governance and Ethics,completed,3.0
+s36,c2,Strategic management,completed,2.0
+s37,c2,Strategic management,completed,3.0
+s37,c3,Organizational Behavior,completed,4.0
+s38,c3,Organizational Behavior,completed,5.0
+s39,c3,Organizational Behavior,completed,3.0
+s40,c3,Organizational Behavior,completed,5.0
+s41,c1,Business Communication,completed,4.0
+s42,c1,Business Communication,enrolled,
+s42,c2,Strategic management,enrolled,
+s43,c2,Strategic management,enrolled,
+s43,c3,Organizational Behavior,completed,1.0
+s44,c1,Business Communication,enrolled,
+s44,c2,Strategic management,enrolled,
+s45,c3,Organizational Behavior,completed,1.0
+s46,c1,Business Communication,enrolled,
+s47,c4,Corporate Governance and Ethics,enrolled,
+s48,c1,Business Communication,completed,2.0
+s49,c4,Corporate Governance and Ethics,enrolled,
+s49,c1,Business Communication,enrolled,
+s50,c1,Business Communication,enrolled,
+s51,c4,Corporate Governance and Ethics,completed,5.0
+s51,c3,Organizational Behavior,completed,3.0
+s52,c4,Corporate Governance and Ethics,enrolled,
+s53,c4,Corporate Governance and Ethics,completed,4.0
+s54,c3,Organizational Behavior,completed,5.0
+s54,c1,Business Communication,completed,3.0
+s55,c2,Strategic management,completed,4.0
+s55,c1,Business Communication,completed,1.0
+s56,c3,Organizational Behavior,enrolled,
+s56,c1,Business Communication,enrolled,
+s57,c3,Organizational Behavior,completed,3.0
+s57,c4,Corporate Governance and Ethics,completed,2.0
+s58,c1,Business Communication,enrolled,
+s58,c2,Strategic management,completed,3.0
+s59,c4,Corporate Governance and Ethics,enrolled,
+s60,c2,Strategic management,enrolled,
+s60,c3,Organizational Behavior,enrolled,
+s61,c3,Organizational Behavior,completed,2.0
+s61,c1,Business Communication,enrolled,
+s62,c1,Business Communication,enrolled,
+s63,c4,Corporate Governance and Ethics,enrolled,
+s63,c2,Strategic management,enrolled,
+s64,c3,Organizational Behavior,enrolled,
+s65,c1,Business Communication,completed,3.0
+s65,c3,Organizational Behavior,enrolled,
+s66,c4,Corporate Governance and Ethics,enrolled,
+s67,c3,Organizational Behavior,enrolled,
+s68,c3,Organizational Behavior,enrolled,
+s69,c4,Corporate Governance and Ethics,enrolled,
+s69,c2,Strategic management,completed,1.0
+s70,c1,Business Communication,completed,3.0
+s70,c4,Corporate Governance and Ethics,enrolled,
+s71,c1,Business Communication,completed,2.0
+s72,c2,Strategic management,completed,2.0
+s72,c3,Organizational Behavior,enrolled,
+s73,c1,Business Communication,completed,3.0
+s73,c2,Strategic management,enrolled,
+s74,c3,Organizational Behavior,completed,1.0
+s74,c4,Corporate Governance and Ethics,enrolled,
+s75,c2,Strategic management,completed,4.0
+s75,c1,Business Communication,completed,3.0
+s76,c1,Business Communication,enrolled,
+s77,c3,Organizational Behavior,completed,2.0
+s77,c4,Corporate Governance and Ethics,enrolled,
+s78,c4,Corporate Governance and Ethics,completed,3.0
+s78,c2,Strategic management,completed,4.0
+s79,c4,Corporate Governance and Ethics,completed,4.0
+s79,c3,Organizational Behavior,enrolled,
+s80,c4,Corporate Governance and Ethics,completed,5.0
+s81,c4,Corporate Governance and Ethics,completed,4.0
+s82,c4,Corporate Governance and Ethics,completed,5.0
+s83,c3,Organizational Behavior,completed,5.0
+s84,c2,Strategic management,enrolled,
+s84,c3,Organizational Behavior,completed,3.0
+s85,c1,Business Communication,enrolled,
+s85,c3,Organizational Behavior,enrolled,
+s86,c2,Strategic management,enrolled,
+s87,c1,Business Communication,completed,2.0
+s87,c4,Corporate Governance and Ethics,completed,1.0
+s88,c1,Business Communication,completed,5.0
+s88,c3,Organizational Behavior,enrolled,
+s89,c3,Organizational Behavior,enrolled,
+s90,c2,Strategic management,enrolled,
+s90,c1,Business Communication,completed,4.0
+s91,c1,Business Communication,completed,5.0
+s91,c4,Corporate Governance and Ethics,enrolled,
+s92,c1,Business Communication,completed,1.0
+s92,c3,Organizational Behavior,enrolled,
+s93,c1,Business Communication,completed,1.0
+s94,c4,Corporate Governance and Ethics,enrolled,
+s94,c3,Organizational Behavior,completed,3.0
+s95,c4,Corporate Governance and Ethics,completed,5.0
+s96,c4,Corporate Governance and Ethics,enrolled,
+s96,c3,Organizational Behavior,completed,4.0
+s97,c1,Business Communication,enrolled,
+s98,c2,Strategic management,enrolled,
+s99,c2,Strategic management,completed,3.0
+s99,c4,Corporate Governance and Ethics,completed,3.0
+s100,c2,Strategic management,enrolled,
+s101,c2,Strategic management,enrolled,
+s101,c3,Organizational Behavior,completed,1.0
+s102,c3,Organizational Behavior,completed,1.0
+s102,c4,Corporate Governance and Ethics,enrolled,
+s103,c1,Business Communication,enrolled,
+s103,c4,Corporate Governance and Ethics,completed,2.0
+s104,c1,Business Communication,enrolled,
+s104,c4,Corporate Governance and Ethics,completed,4.0
+s105,c1,Business Communication,completed,4.0
+s106,c3,Organizational Behavior,completed,1.0
+s107,c2,Strategic management,completed,5.0
+s107,c3,Organizational Behavior,enrolled,
+s108,c2,Strategic management,completed,1.0
+s108,c3,Organizational Behavior,completed,2.0
+s109,c4,Corporate Governance and Ethics,enrolled,
+s110,c3,Organizational Behavior,enrolled,
+s110,c1,Business Communication,enrolled,
+s111,c4,Corporate Governance and Ethics,enrolled,
+s111,c2,Strategic management,completed,3.0
+s112,c2,Strategic management,enrolled,
+s113,c2,Strategic management,enrolled,
+s114,c1,Business Communication,enrolled,
+s114,c4,Corporate Governance and Ethics,enrolled,
+s115,c4,Corporate Governance and Ethics,enrolled,
+s115,c2,Strategic management,completed,2.0
+s116,c3,Organizational Behavior,enrolled,
+s117,c4,Corporate Governance and Ethics,enrolled,
+s117,c3,Organizational Behavior,enrolled,
+s118,c4,Corporate Governance and Ethics,completed,5.0
+s118,c2,Strategic management,enrolled,
+s119,c2,Strategic management,completed,5.0
+s120,c1,Business Communication,completed,4.0
+s121,c4,Corporate Governance and Ethics,enrolled,
+s122,c4,Corporate Governance and Ethics,completed,5.0
+s122,c2,Strategic management,completed,1.0
+s123,c4,Corporate Governance and Ethics,enrolled,
+s124,c4,Corporate Governance and Ethics,enrolled,
+s124,c1,Business Communication,enrolled,
+s125,c4,Corporate Governance and Ethics,enrolled,
+s126,c2,Strategic management,enrolled,
+s127,c2,Strategic management,completed,2.0
+s127,c4,Corporate Governance and Ethics,completed,4.0
+s128,c1,Business Communication,enrolled,
+s129,c1,Business Communication,completed,5.0
+s130,c3,Organizational Behavior,enrolled,
+s130,c2,Strategic management,completed,2.0
+s131,c1,Business Communication,enrolled,
+s131,c3,Organizational Behavior,completed,4.0
+s132,c2,Strategic management,enrolled,
+s132,c3,Organizational Behavior,completed,2.0
+s133,c4,Corporate Governance and Ethics,enrolled,
+s133,c3,Organizational Behavior,enrolled,
+s134,c2,Strategic management,completed,3.0
+s135,c3,Organizational Behavior,completed,1.0
+s136,c4,Corporate Governance and Ethics,completed,5.0
+s137,c4,Corporate Governance and Ethics,completed,2.0
+s138,c1,Business Communication,enrolled,
+s139,c4,Corporate Governance and Ethics,completed,2.0
+s139,c2,Strategic management,completed,2.0
+s140,c3,Organizational Behavior,enrolled,
+s141,c2,Strategic management,completed,4.0
+s142,c4,Corporate Governance and Ethics,enrolled,
+s142,c1,Business Communication,enrolled,
+s143,c1,Business Communication,enrolled,
+s143,c4,Corporate Governance and Ethics,enrolled,
+s144,c3,Organizational Behavior,completed,1.0
+s145,c3,Organizational Behavior,completed,5.0
+s145,c1,Business Communication,completed,2.0
+s146,c1,Business Communication,completed,5.0
+s146,c2,Strategic management,enrolled,
+s147,c2,Strategic management,completed,2.0
+s148,c4,Corporate Governance and Ethics,enrolled,
+s148,c1,Business Communication,completed,2.0
+s149,c3,Organizational Behavior,completed,4.0
+s150,c2,Strategic management,enrolled,
+s150,c4,Corporate Governance and Ethics,enrolled,
+s151,c2,Strategic management,completed,5.0
+s152,c2,Strategic management,enrolled,
+s152,c3,Organizational Behavior,completed,1.0
+s153,c2,Strategic management,completed,2.0
+s154,c4,Corporate Governance and Ethics,enrolled,
+s155,c1,Business Communication,completed,5.0
+s155,c2,Strategic management,enrolled,
+s156,c2,Strategic management,enrolled,
+s157,c4,Corporate Governance and Ethics,enrolled,
+s158,c3,Organizational Behavior,enrolled,
+s159,c4,Corporate Governance and Ethics,enrolled,
+s160,c3,Organizational Behavior,completed,3.0
+s161,c3,Organizational Behavior,completed,5.0
+s162,c3,Organizational Behavior,completed,2.0
+s162,c4,Corporate Governance and Ethics,completed,3.0
+s163,c2,Strategic management,completed,5.0
+s163,c3,Organizational Behavior,completed,1.0
+s164,c3,Organizational Behavior,completed,5.0
+s165,c4,Corporate Governance and Ethics,enrolled,
+s165,c2,Strategic management,enrolled,
+s166,c1,Business Communication,completed,4.0
+s167,c2,Strategic management,enrolled,
+s168,c2,Strategic management,completed,3.0
+s168,c4,Corporate Governance and Ethics,completed,4.0
+s169,c4,Corporate Governance and Ethics,completed,4.0
+s169,c2,Strategic management,completed,3.0
+s170,c2,Strategic management,enrolled,
+s171,c3,Organizational Behavior,completed,5.0
+s172,c3,Organizational Behavior,completed,2.0
+s173,c1,Business Communication,enrolled,
+s173,c4,Corporate Governance and Ethics,completed,3.0
+s174,c1,Business Communication,completed,3.0
+s174,c2,Strategic management,enrolled,
+s175,c4,Corporate Governance and Ethics,enrolled,
+s175,c1,Business Communication,completed,4.0
+s176,c4,Corporate Governance and Ethics,completed,2.0
+s176,c1,Business Communication,enrolled,
+s177,c4,Corporate Governance and Ethics,enrolled,
+s177,c3,Organizational Behavior,enrolled,
+s178,c1,Business Communication,enrolled,
+s179,c2,Strategic management,completed,3.0
+s180,c4,Corporate Governance and Ethics,enrolled,
+s180,c3,Organizational Behavior,completed,3.0
+s181,c1,Business Communication,completed,1.0
+s181,c3,Organizational Behavior,enrolled,
+s182,c4,Corporate Governance and Ethics,completed,1.0
+s183,c1,Business Communication,enrolled,
+s183,c2,Strategic management,completed,1.0
+s184,c2,Strategic management,completed,4.0
+s184,c1,Business Communication,enrolled,
+s185,c4,Corporate Governance and Ethics,completed,1.0
+s185,c1,Business Communication,enrolled,
+s186,c4,Corporate Governance and Ethics,enrolled,
+s187,c1,Business Communication,enrolled,
+s188,c4,Corporate Governance and Ethics,enrolled,
+s189,c4,Corporate Governance and Ethics,completed,2.0
+s189,c1,Business Communication,completed,4.0
+s190,c3,Organizational Behavior,completed,1.0
+s191,c4,Corporate Governance and Ethics,completed,4.0
+s191,c3,Organizational Behavior,completed,5.0
+s192,c4,Corporate Governance and Ethics,completed,4.0
+s192,c2,Strategic management,completed,3.0
+s193,c2,Strategic management,completed,2.0
+s194,c3,Organizational Behavior,enrolled,
+s195,c3,Organizational Behavior,enrolled,
+s196,c4,Corporate Governance and Ethics,completed,4.0
+s197,c4,Corporate Governance and Ethics,completed,1.0
+s197,c2,Strategic management,enrolled,
+s198,c3,Organizational Behavior,enrolled,
+s198,c1,Business Communication,completed,2.0
+s199,c2,Strategic management,completed,1.0
+s199,c1,Business Communication,enrolled,
+s200,c3,Organizational Behavior,enrolled,
+s201,c2,Strategic management,completed,1.0
+s201,c4,Corporate Governance and Ethics,enrolled,
+s202,c4,Corporate Governance and Ethics,completed,4.0
+s203,c4,Corporate Governance and Ethics,enrolled,
+s203,c1,Business Communication,enrolled,
+s204,c1,Business Communication,enrolled,
+s204,c2,Strategic management,enrolled,
+s205,c2,Strategic management,enrolled,
+s206,c4,Corporate Governance and Ethics,enrolled,
+s207,c4,Corporate Governance and Ethics,completed,3.0
+s208,c4,Corporate Governance and Ethics,completed,3.0
+s209,c3,Organizational Behavior,completed,1.0
+s209,c1,Business Communication,completed,4.0
+s210,c2,Strategic management,enrolled,
+s211,c3,Organizational Behavior,enrolled,
+s211,c1,Business Communication,enrolled,
+s212,c2,Strategic management,completed,4.0
+s213,c2,Strategic management,completed,2.0
+s214,c2,Strategic management,enrolled,
+s214,c1,Business Communication,completed,3.0
+s215,c4,Corporate Governance and Ethics,completed,2.0
+s215,c3,Organizational Behavior,completed,5.0
+s216,c3,Organizational Behavior,enrolled,
+s217,c2,Strategic management,completed,4.0
+s217,c3,Organizational Behavior,completed,1.0
+s218,c3,Organizational Behavior,completed,5.0
+s218,c4,Corporate Governance and Ethics,enrolled,
+s219,c1,Business Communication,enrolled,
+s219,c2,Strategic management,completed,5.0
+s220,c3,Organizational Behavior,enrolled,
+s220,c2,Strategic management,enrolled,
+s221,c2,Strategic management,enrolled,
+s221,c1,Business Communication,enrolled,
+s222,c3,Organizational Behavior,enrolled,
+s222,c2,Strategic management,enrolled,
+s223,c1,Business Communication,enrolled,
+s223,c3,Organizational Behavior,completed,5.0
+s224,c4,Corporate Governance and Ethics,enrolled,
+s224,c2,Strategic management,completed,2.0
+s225,c2,Strategic management,completed,2.0
+s225,c3,Organizational Behavior,completed,4.0
+s226,c4,Corporate Governance and Ethics,enrolled,
+s227,c4,Corporate Governance and Ethics,completed,5.0
+s228,c1,Business Communication,completed,4.0
+s228,c3,Organizational Behavior,completed,1.0
+s229,c3,Organizational Behavior,completed,1.0
+s230,c4,Corporate Governance and Ethics,completed,3.0
+s231,c2,Strategic management,enrolled,
+s232,c4,Corporate Governance and Ethics,enrolled,
+s232,c3,Organizational Behavior,completed,4.0
+s233,c1,Business Communication,completed,5.0
+s233,c3,Organizational Behavior,enrolled,
+s234,c3,Organizational Behavior,enrolled,
+s235,c3,Organizational Behavior,completed,3.0
+s236,c4,Corporate Governance and Ethics,enrolled,
+s237,c1,Business Communication,enrolled,
+s238,c1,Business Communication,completed,1.0
+s238,c4,Corporate Governance and Ethics,enrolled,
+s239,c2,Strategic management,enrolled,
+s240,c3,Organizational Behavior,completed,1.0
+s240,c4,Corporate Governance and Ethics,enrolled,
+s241,c4,Corporate Governance and Ethics,enrolled,
+s242,c2,Strategic management,enrolled,
+s243,c3,Organizational Behavior,enrolled,
+s243,c4,Corporate Governance and Ethics,completed,3.0
+s244,c2,Strategic management,enrolled,
+s245,c2,Strategic management,enrolled,
+s246,c2,Strategic management,enrolled,
+s247,c2,Strategic management,completed,2.0
+s247,c1,Business Communication,enrolled,
+s248,c3,Organizational Behavior,enrolled,
+s249,c4,Corporate Governance and Ethics,completed,2.0
+s250,c4,Corporate Governance and Ethics,enrolled,
+s250,c2,Strategic management,completed,1.0
+s251,c1,Business Communication,completed,3.0
+s251,c4,Corporate Governance and Ethics,enrolled,
+s252,c2,Strategic management,enrolled,
+s253,c1,Business Communication,completed,2.0
+s254,c3,Organizational Behavior,completed,3.0
+s254,c4,Corporate Governance and Ethics,enrolled,
+s255,c3,Organizational Behavior,enrolled,
+s256,c4,Corporate Governance and Ethics,enrolled,
+s257,c1,Business Communication,enrolled,
+s257,c2,Strategic management,enrolled,
+s258,c4,Corporate Governance and Ethics,completed,4.0
+s259,c1,Business Communication,enrolled,
+s260,c3,Organizational Behavior,completed,1.0
+s261,c3,Organizational Behavior,completed,2.0
+s262,c4,Corporate Governance and Ethics,enrolled,
+s263,c1,Business Communication,enrolled,
+s264,c3,Organizational Behavior,completed,2.0
+s264,c4,Corporate Governance and Ethics,completed,1.0
+s265,c4,Corporate Governance and Ethics,enrolled,
+s265,c3,Organizational Behavior,completed,2.0
+s266,c1,Business Communication,completed,3.0
+s267,c2,Strategic management,completed,1.0
+s267,c3,Organizational Behavior,enrolled,
+s268,c2,Strategic management,completed,5.0
+s268,c4,Corporate Governance and Ethics,enrolled,
+s269,c1,Business Communication,enrolled,
+s269,c3,Organizational Behavior,completed,2.0
+s270,c1,Business Communication,enrolled,
+s271,c3,Organizational Behavior,enrolled,
+s272,c2,Strategic management,enrolled,
+s273,c1,Business Communication,completed,1.0
+s273,c2,Strategic management,enrolled,
+s274,c2,Strategic management,completed,2.0
+s274,c3,Organizational Behavior,enrolled,
+s275,c3,Organizational Behavior,completed,5.0
+s276,c2,Strategic management,enrolled,
+s276,c3,Organizational Behavior,completed,4.0
+s277,c3,Organizational Behavior,enrolled,
+s278,c4,Corporate Governance and Ethics,completed,4.0
+s279,c1,Business Communication,completed,4.0
+s280,c3,Organizational Behavior,completed,5.0
+s281,c2,Strategic management,enrolled,
+s281,c1,Business Communication,enrolled,
+s282,c3,Organizational Behavior,enrolled,
+s283,c3,Organizational Behavior,completed,2.0
+s283,c4,Corporate Governance and Ethics,enrolled,
+s284,c4,Corporate Governance and Ethics,enrolled,
+s285,c1,Business Communication,completed,5.0
+s286,c4,Corporate Governance and Ethics,enrolled,
+s286,c1,Business Communication,enrolled,
+s287,c1,Business Communication,completed,4.0
+s287,c4,Corporate Governance and Ethics,enrolled,
+s288,c4,Corporate Governance and Ethics,completed,2.0
+s288,c1,Business Communication,completed,1.0
+s289,c1,Business Communication,completed,1.0
+s289,c4,Corporate Governance and Ethics,completed,4.0
+s290,c1,Business Communication,completed,3.0
+s291,c3,Organizational Behavior,completed,2.0
+s292,c3,Organizational Behavior,enrolled,
+s292,c1,Business Communication,enrolled,
+s293,c3,Organizational Behavior,enrolled,
+s293,c1,Business Communication,completed,3.0
+s294,c2,Strategic management,enrolled,
+s294,c4,Corporate Governance and Ethics,completed,4.0
+s295,c1,Business Communication,completed,5.0
+s296,c2,Strategic management,enrolled,
+s297,c4,Corporate Governance and Ethics,enrolled,
+s297,c3,Organizational Behavior,completed,2.0
+s298,c1,Business Communication,completed,4.0
+s298,c2,Strategic management,completed,4.0
+s299,c4,Corporate Governance and Ethics,enrolled,
+s300,c4,Corporate Governance and Ethics,completed,4.0
+s300,c1,Business Communication,enrolled,
+s301,c2,Strategic management,completed,3.0
+s301,c4,Corporate Governance and Ethics,completed,3.0
+s302,c4,Corporate Governance and Ethics,enrolled,
+s302,c1,Business Communication,completed,3.0
+s303,c4,Corporate Governance and Ethics,completed,4.0
+s303,c3,Organizational Behavior,enrolled,
+s304,c3,Organizational Behavior,completed,2.0
+s304,c1,Business Communication,enrolled,
+s305,c3,Organizational Behavior,completed,5.0
+s305,c1,Business Communication,completed,3.0
+s306,c1,Business Communication,enrolled,
+s306,c3,Organizational Behavior,enrolled,
+s307,c4,Corporate Governance and Ethics,completed,3.0
+s308,c2,Strategic management,enrolled,
+s308,c4,Corporate Governance and Ethics,enrolled,
+s309,c4,Corporate Governance and Ethics,completed,1.0
+s309,c3,Organizational Behavior,enrolled,
+s310,c1,Business Communication,completed,5.0
+s310,c4,Corporate Governance and Ethics,enrolled,
+s311,c3,Organizational Behavior,completed,5.0
+s312,c1,Business Communication,completed,1.0
+s313,c1,Business Communication,completed,4.0
+s314,c2,Strategic management,completed,3.0
+s314,c4,Corporate Governance and Ethics,completed,1.0
+s315,c3,Organizational Behavior,enrolled,
+s315,c2,Strategic management,completed,5.0
+s316,c1,Business Communication,completed,3.0
+s317,c2,Strategic management,enrolled,
+s318,c2,Strategic management,completed,2.0
+s319,c1,Business Communication,completed,1.0
+s320,c1,Business Communication,enrolled,
+s320,c2,Strategic management,enrolled,
+s321,c4,Corporate Governance and Ethics,completed,4.0
+s322,c3,Organizational Behavior,completed,5.0
+s322,c2,Strategic management,completed,3.0
+s323,c4,Corporate Governance and Ethics,completed,5.0
+s324,c1,Business Communication,enrolled,
+s324,c4,Corporate Governance and Ethics,completed,5.0
+s325,c4,Corporate Governance and Ethics,completed,4.0
+s326,c2,Strategic management,completed,2.0
+s326,c3,Organizational Behavior,completed,3.0
+s327,c1,Business Communication,completed,2.0
+s327,c4,Corporate Governance and Ethics,completed,4.0
+s328,c1,Business Communication,completed,3.0
+s328,c3,Organizational Behavior,completed,2.0
+s329,c3,Organizational Behavior,completed,5.0
+s329,c4,Corporate Governance and Ethics,completed,3.0
+s330,c2,Strategic management,completed,1.0
+s330,c4,Corporate Governance and Ethics,enrolled,
+s331,c1,Business Communication,enrolled,
+s331,c4,Corporate Governance and Ethics,completed,3.0
+s332,c4,Corporate Governance and Ethics,enrolled,
+s333,c2,Strategic management,enrolled,
+s333,c4,Corporate Governance and Ethics,enrolled,
+s334,c3,Organizational Behavior,completed,4.0
+s335,c1,Business Communication,enrolled,
+s335,c3,Organizational Behavior,completed,5.0
+s336,c4,Corporate Governance and Ethics,enrolled,
+s336,c2,Strategic management,completed,2.0
+s337,c2,Strategic management,enrolled,
+s338,c3,Organizational Behavior,completed,4.0
+s338,c1,Business Communication,enrolled,
+s339,c4,Corporate Governance and Ethics,enrolled,
+s339,c2,Strategic management,enrolled,
+s340,c2,Strategic management,enrolled,
+s341,c1,Business Communication,enrolled,
+s342,c3,Organizational Behavior,enrolled,
+s342,c1,Business Communication,enrolled,
+s343,c1,Business Communication,completed,5.0
+s344,c1,Business Communication,completed,5.0
+s345,c3,Organizational Behavior,completed,4.0
+s346,c1,Business Communication,enrolled,
+s347,c2,Strategic management,enrolled,
+s347,c1,Business Communication,enrolled,
+s348,c2,Strategic management,enrolled,
+s349,c4,Corporate Governance and Ethics,enrolled,
+s349,c2,Strategic management,completed,4.0
+s350,c3,Organizational Behavior,enrolled,
+s350,c1,Business Communication,completed,5.0
+s351,c4,Corporate Governance and Ethics,enrolled,
+s352,c1,Business Communication,enrolled,
+s352,c3,Organizational Behavior,enrolled,
+s353,c3,Organizational Behavior,completed,5.0
+s353,c1,Business Communication,completed,3.0
+s354,c4,Corporate Governance and Ethics,completed,5.0
+s354,c3,Organizational Behavior,enrolled,
+s355,c3,Organizational Behavior,completed,4.0
+s356,c2,Strategic management,completed,2.0
+s356,c1,Business Communication,enrolled,
+s357,c1,Business Communication,completed,1.0
+s358,c2,Strategic management,completed,5.0
+s358,c1,Business Communication,completed,2.0
+s359,c4,Corporate Governance and Ethics,enrolled,
+s360,c3,Organizational Behavior,enrolled,
+s361,c3,Organizational Behavior,completed,4.0
+s362,c2,Strategic management,completed,4.0
+s363,c1,Business Communication,enrolled,
+s364,c1,Business Communication,completed,5.0
+s364,c3,Organizational Behavior,completed,5.0
+s365,c2,Strategic management,enrolled,
+s366,c3,Organizational Behavior,completed,4.0
+s367,c1,Business Communication,enrolled,
+s368,c4,Corporate Governance and Ethics,enrolled,
+s369,c1,Business Communication,completed,5.0
+s370,c2,Strategic management,completed,3.0
+s370,c3,Organizational Behavior,completed,3.0
+s371,c2,Strategic management,enrolled,
+s371,c1,Business Communication,enrolled,
+s372,c4,Corporate Governance and Ethics,completed,5.0
+s372,c1,Business Communication,enrolled,
+s373,c3,Organizational Behavior,completed,3.0
+s373,c4,Corporate Governance and Ethics,completed,2.0
+s374,c2,Strategic management,enrolled,
+s374,c3,Organizational Behavior,completed,5.0
+s375,c3,Organizational Behavior,completed,5.0
+s376,c2,Strategic management,enrolled,
+s377,c2,Strategic management,enrolled,
+s378,c3,Organizational Behavior,completed,2.0
+s379,c2,Strategic management,completed,1.0
+s379,c3,Organizational Behavior,enrolled,
+s380,c3,Organizational Behavior,enrolled,
+s380,c1,Business Communication,completed,4.0
+s381,c2,Strategic management,enrolled,
+s381,c4,Corporate Governance and Ethics,completed,4.0
+s382,c3,Organizational Behavior,completed,1.0
+s382,c1,Business Communication,enrolled,
+s383,c4,Corporate Governance and Ethics,completed,3.0
+s383,c1,Business Communication,enrolled,
+s384,c3,Organizational Behavior,enrolled,
+s384,c1,Business Communication,enrolled,
+s385,c3,Organizational Behavior,enrolled,
+s386,c2,Strategic management,completed,1.0
+s387,c4,Corporate Governance and Ethics,enrolled,
+s387,c2,Strategic management,enrolled,
+s388,c4,Corporate Governance and Ethics,enrolled,
+s389,c2,Strategic management,enrolled,
+s389,c4,Corporate Governance and Ethics,completed,5.0
+s390,c3,Organizational Behavior,completed,2.0
+s390,c4,Corporate Governance and Ethics,enrolled,
+s391,c3,Organizational Behavior,completed,3.0
+s391,c4,Corporate Governance and Ethics,completed,2.0
+s392,c1,Business Communication,enrolled,
+s392,c4,Corporate Governance and Ethics,enrolled,
+s393,c2,Strategic management,enrolled,
+s393,c1,Business Communication,enrolled,
+s394,c2,Strategic management,completed,5.0
+s394,c1,Business Communication,completed,5.0
+s395,c3,Organizational Behavior,completed,3.0
+s395,c4,Corporate Governance and Ethics,completed,3.0
+s396,c4,Corporate Governance and Ethics,enrolled,
+s397,c3,Organizational Behavior,completed,2.0
+s397,c4,Corporate Governance and Ethics,completed,4.0
+s398,c3,Organizational Behavior,completed,2.0
+s398,c2,Strategic management,completed,3.0
+s399,c1,Business Communication,completed,1.0
+s400,c3,Organizational Behavior,enrolled,
+s400,c2,Strategic management,completed,2.0
+s401,c2,Strategic management,enrolled,
+s401,c1,Business Communication,enrolled,
+s402,c1,Business Communication,enrolled,
+s403,c3,Organizational Behavior,enrolled,
+s404,c3,Organizational Behavior,enrolled,
+s405,c4,Corporate Governance and Ethics,enrolled,
+s406,c1,Business Communication,completed,3.0
+s407,c2,Strategic management,enrolled,
+s407,c1,Business Communication,completed,1.0
+s408,c4,Corporate Governance and Ethics,completed,5.0
+s409,c3,Organizational Behavior,completed,2.0
+s410,c3,Organizational Behavior,completed,1.0
+s410,c4,Corporate Governance and Ethics,completed,1.0
+s411,c3,Organizational Behavior,completed,4.0
+s411,c1,Business Communication,enrolled,
+s412,c1,Business Communication,completed,2.0
+s413,c3,Organizational Behavior,enrolled,
+s414,c2,Strategic management,completed,3.0
+s415,c4,Corporate Governance and Ethics,enrolled,
+s416,c2,Strategic management,completed,5.0
+s417,c4,Corporate Governance and Ethics,enrolled,
+s417,c2,Strategic management,enrolled,
+s418,c1,Business Communication,enrolled,
+s418,c4,Corporate Governance and Ethics,completed,3.0
+s419,c1,Business Communication,completed,4.0
+s420,c1,Business Communication,enrolled,
+s420,c2,Strategic management,completed,4.0
+s421,c1,Business Communication,enrolled,
+s422,c1,Business Communication,completed,2.0
+s423,c1,Business Communication,enrolled,
+s423,c4,Corporate Governance and Ethics,completed,4.0
+s424,c2,Strategic management,completed,4.0
+s425,c3,Organizational Behavior,completed,1.0
+s426,c4,Corporate Governance and Ethics,completed,1.0
+s427,c1,Business Communication,enrolled,
+s428,c2,Strategic management,enrolled,
+s429,c1,Business Communication,enrolled,
+s430,c3,Organizational Behavior,enrolled,
+s431,c3,Organizational Behavior,completed,5.0
+s431,c1,Business Communication,completed,3.0
+s432,c4,Corporate Governance and Ethics,completed,4.0
+s433,c1,Business Communication,enrolled,
+s433,c4,Corporate Governance and Ethics,completed,3.0
+s434,c2,Strategic management,enrolled,
+s435,c2,Strategic management,enrolled,
+s435,c3,Organizational Behavior,completed,2.0
+s436,c4,Corporate Governance and Ethics,completed,2.0
+s436,c3,Organizational Behavior,enrolled,
+s437,c1,Business Communication,enrolled,
+s438,c1,Business Communication,enrolled,
+s438,c3,Organizational Behavior,enrolled,
+s439,c2,Strategic management,completed,2.0
+s439,c4,Corporate Governance and Ethics,completed,1.0
+s440,c2,Strategic management,completed,5.0
+s441,c3,Organizational Behavior,completed,5.0
+s442,c4,Corporate Governance and Ethics,enrolled,
+s443,c3,Organizational Behavior,enrolled,
+s443,c1,Business Communication,completed,1.0
+s444,c3,Organizational Behavior,completed,4.0
+s444,c1,Business Communication,enrolled,
+s445,c3,Organizational Behavior,completed,5.0
+s445,c4,Corporate Governance and Ethics,enrolled,
+s446,c1,Business Communication,completed,3.0
+s447,c3,Organizational Behavior,completed,1.0
+s447,c2,Strategic management,enrolled,
+s448,c2,Strategic management,enrolled,
+s449,c1,Business Communication,completed,5.0
+s450,c2,Strategic management,completed,1.0
+s450,c4,Corporate Governance and Ethics,completed,3.0
+s451,c2,Strategic management,enrolled,
+s451,c4,Corporate Governance and Ethics,enrolled,
+s452,c3,Organizational Behavior,enrolled,
+s453,c3,Organizational Behavior,completed,4.0
+s453,c1,Business Communication,enrolled,
+s454,c4,Corporate Governance and Ethics,completed,3.0
+s454,c3,Organizational Behavior,completed,1.0
+s455,c3,Organizational Behavior,completed,4.0
+s456,c2,Strategic management,enrolled,
+s456,c3,Organizational Behavior,enrolled,
+s457,c2,Strategic management,completed,4.0
+s458,c1,Business Communication,enrolled,
+s458,c2,Strategic management,enrolled,
+s459,c2,Strategic management,enrolled,
+s460,c2,Strategic management,completed,3.0
+s460,c1,Business Communication,enrolled,
+s461,c4,Corporate Governance and Ethics,enrolled,
+s461,c3,Organizational Behavior,completed,1.0
+s462,c4,Corporate Governance and Ethics,completed,2.0
+s463,c3,Organizational Behavior,enrolled,
+s463,c4,Corporate Governance and Ethics,completed,2.0
+s464,c2,Strategic management,enrolled,
+s464,c4,Corporate Governance and Ethics,enrolled,
+s465,c4,Corporate Governance and Ethics,completed,5.0
+s466,c4,Corporate Governance and Ethics,completed,5.0
+s467,c4,Corporate Governance and Ethics,enrolled,
+s467,c3,Organizational Behavior,enrolled,
+s468,c1,Business Communication,enrolled,
+s468,c2,Strategic management,enrolled,
+s469,c3,Organizational Behavior,enrolled,
+s469,c4,Corporate Governance and Ethics,completed,4.0
+s470,c1,Business Communication,completed,4.0
+s470,c3,Organizational Behavior,enrolled,
+s471,c3,Organizational Behavior,enrolled,
+s471,c2,Strategic management,enrolled,
+s472,c1,Business Communication,enrolled,
+s473,c4,Corporate Governance and Ethics,enrolled,
+s473,c1,Business Communication,completed,4.0
+s474,c4,Corporate Governance and Ethics,completed,5.0
+s475,c3,Organizational Behavior,enrolled,
+s476,c1,Business Communication,completed,1.0
+s477,c2,Strategic management,completed,1.0
+s477,c1,Business Communication,completed,5.0
+s478,c2,Strategic management,enrolled,
+s479,c4,Corporate Governance and Ethics,completed,3.0
+s480,c3,Organizational Behavior,completed,1.0
+s481,c1,Business Communication,enrolled,
+s482,c3,Organizational Behavior,enrolled,
+s483,c2,Strategic management,enrolled,
+s484,c2,Strategic management,enrolled,
+s484,c1,Business Communication,enrolled,
+s485,c3,Organizational Behavior,completed,3.0
+s486,c1,Business Communication,completed,5.0
+s487,c3,Organizational Behavior,enrolled,
+s488,c1,Business Communication,enrolled,
+s489,c1,Business Communication,enrolled,
+s490,c2,Strategic management,completed,3.0
+s491,c1,Business Communication,enrolled,
+s492,c2,Strategic management,enrolled,
+s493,c3,Organizational Behavior,enrolled,
+s494,c1,Business Communication,completed,4.0
+s494,c2,Strategic management,enrolled,
+s495,c1,Business Communication,enrolled,
+s495,c3,Organizational Behavior,completed,2.0
+s496,c2,Strategic management,enrolled,
+s497,c2,Strategic management,enrolled,
+s498,c3,Organizational Behavior,completed,5.0
+s499,c3,Organizational Behavior,enrolled,
+s500,c2,Strategic management,completed,2.0
+s500,c3,Organizational Behavior,enrolled,
+s501,c2,Strategic management,completed,5.0
+s502,c3,Organizational Behavior,completed,5.0
+s502,c1,Business Communication,completed,1.0
+s503,c1,Business Communication,enrolled,
+s504,c2,Strategic management,completed,4.0
+s504,c4,Corporate Governance and Ethics,enrolled,
+s505,c3,Organizational Behavior,completed,5.0
+s505,c1,Business Communication,completed,1.0
+s506,c1,Business Communication,completed,3.0
+s506,c3,Organizational Behavior,completed,3.0
+s507,c3,Organizational Behavior,completed,3.0
+s508,c1,Business Communication,completed,2.0
+s508,c4,Corporate Governance and Ethics,enrolled,
+s509,c1,Business Communication,completed,3.0
+s510,c2,Strategic management,completed,1.0
+s511,c1,Business Communication,completed,5.0
+s512,c2,Strategic management,enrolled,
+s513,c1,Business Communication,enrolled,
+s513,c4,Corporate Governance and Ethics,completed,3.0
+s514,c1,Business Communication,completed,5.0
+s514,c2,Strategic management,completed,5.0
+s515,c1,Business Communication,enrolled,
+s515,c4,Corporate Governance and Ethics,enrolled,
+s516,c2,Strategic management,enrolled,
+s516,c3,Organizational Behavior,enrolled,
+s517,c2,Strategic management,completed,5.0
+s517,c3,Organizational Behavior,completed,5.0
+s518,c3,Organizational Behavior,enrolled,
+s518,c4,Corporate Governance and Ethics,completed,5.0
+s519,c3,Organizational Behavior,enrolled,
+s520,c2,Strategic management,completed,5.0
+s521,c1,Business Communication,completed,5.0
+s521,c2,Strategic management,enrolled,
+s522,c1,Business Communication,completed,3.0
+s522,c4,Corporate Governance and Ethics,enrolled,
+s523,c2,Strategic management,enrolled,
+s524,c2,Strategic management,enrolled,
+s525,c2,Strategic management,enrolled,
+s525,c4,Corporate Governance and Ethics,enrolled,
+s526,c2,Strategic management,enrolled,
+s526,c1,Business Communication,enrolled,
+s527,c1,Business Communication,completed,4.0
+s528,c4,Corporate Governance and Ethics,enrolled,
+s529,c4,Corporate Governance and Ethics,completed,2.0
+s530,c4,Corporate Governance and Ethics,completed,3.0
+s530,c2,Strategic management,enrolled,
+s531,c1,Business Communication,enrolled,
+s531,c2,Strategic management,completed,2.0
+s532,c1,Business Communication,completed,1.0
+s532,c4,Corporate Governance and Ethics,enrolled,
+s533,c4,Corporate Governance and Ethics,completed,1.0
+s533,c1,Business Communication,completed,1.0
+s534,c2,Strategic management,completed,2.0
+s534,c3,Organizational Behavior,completed,5.0
+s535,c1,Business Communication,enrolled,
+s535,c2,Strategic management,completed,1.0
+s536,c4,Corporate Governance and Ethics,completed,5.0
+s536,c2,Strategic management,enrolled,
+s537,c1,Business Communication,enrolled,
+s538,c2,Strategic management,completed,4.0
+s538,c4,Corporate Governance and Ethics,enrolled,
+s539,c2,Strategic management,enrolled,
+s540,c4,Corporate Governance and Ethics,completed,1.0
+s541,c3,Organizational Behavior,enrolled,
+s542,c1,Business Communication,enrolled,
+s543,c3,Organizational Behavior,enrolled,
+s543,c4,Corporate Governance and Ethics,completed,4.0
+s544,c1,Business Communication,enrolled,
+s544,c3,Organizational Behavior,completed,4.0
+s545,c4,Corporate Governance and Ethics,enrolled,
+s545,c3,Organizational Behavior,completed,1.0
+s546,c3,Organizational Behavior,enrolled,
+s547,c3,Organizational Behavior,completed,4.0
+s548,c2,Strategic management,enrolled,
+s549,c1,Business Communication,enrolled,
+s550,c3,Organizational Behavior,completed,2.0
+s550,c2,Strategic management,enrolled,
+s551,c3,Organizational Behavior,enrolled,
+s552,c4,Corporate Governance and Ethics,completed,3.0
+s553,c4,Corporate Governance and Ethics,completed,5.0
+s553,c3,Organizational Behavior,enrolled,
+s554,c1,Business Communication,enrolled,
+s554,c3,Organizational Behavior,enrolled,
+s555,c3,Organizational Behavior,completed,3.0
+s556,c4,Corporate Governance and Ethics,completed,3.0
+s556,c2,Strategic management,completed,5.0
+s557,c2,Strategic management,enrolled,
+s557,c1,Business Communication,enrolled,
+s558,c1,Business Communication,completed,2.0
+s558,c4,Corporate Governance and Ethics,enrolled,
+s559,c2,Strategic management,enrolled,
+s559,c4,Corporate Governance and Ethics,enrolled,
+s560,c1,Business Communication,enrolled,
+s560,c4,Corporate Governance and Ethics,completed,2.0
+s561,c3,Organizational Behavior,completed,4.0
+s561,c2,Strategic management,enrolled,
+s562,c2,Strategic management,completed,2.0
+s562,c1,Business Communication,enrolled,
+s563,c2,Strategic management,completed,2.0
+s564,c1,Business Communication,enrolled,
+s565,c3,Organizational Behavior,completed,2.0
+s566,c1,Business Communication,enrolled,
+s567,c2,Strategic management,completed,3.0
+s568,c2,Strategic management,enrolled,
+s569,c2,Strategic management,completed,5.0
+s570,c2,Strategic management,enrolled,
+s570,c4,Corporate Governance and Ethics,enrolled,
+s571,c1,Business Communication,completed,2.0
+s571,c4,Corporate Governance and Ethics,enrolled,
+s572,c1,Business Communication,completed,2.0
+s572,c2,Strategic management,completed,2.0
+s573,c4,Corporate Governance and Ethics,completed,4.0
+s573,c1,Business Communication,completed,1.0
+s574,c1,Business Communication,enrolled,
+s575,c1,Business Communication,completed,3.0
+s575,c4,Corporate Governance and Ethics,enrolled,
+s576,c3,Organizational Behavior,enrolled,
+s576,c2,Strategic management,enrolled,
+s577,c4,Corporate Governance and Ethics,completed,5.0
+s578,c3,Organizational Behavior,enrolled,
+s579,c4,Corporate Governance and Ethics,completed,4.0
+s579,c1,Business Communication,completed,5.0
+s580,c2,Strategic management,completed,4.0
+s580,c1,Business Communication,enrolled,
+s581,c1,Business Communication,completed,1.0
+s581,c4,Corporate Governance and Ethics,enrolled,
+s582,c3,Organizational Behavior,completed,1.0
+s582,c1,Business Communication,enrolled,
+s583,c3,Organizational Behavior,enrolled,
+s584,c3,Organizational Behavior,enrolled,
+s584,c4,Corporate Governance and Ethics,completed,1.0
+s585,c2,Strategic management,completed,2.0
+s586,c4,Corporate Governance and Ethics,completed,4.0
+s586,c3,Organizational Behavior,completed,5.0
+s587,c3,Organizational Behavior,enrolled,
+s587,c1,Business Communication,completed,5.0
+s588,c4,Corporate Governance and Ethics,completed,1.0
+s588,c2,Strategic management,enrolled,
+s589,c3,Organizational Behavior,completed,1.0
+s589,c2,Strategic management,completed,1.0
+s590,c3,Organizational Behavior,completed,2.0
+s591,c3,Organizational Behavior,enrolled,
+s591,c2,Strategic management,enrolled,
+s592,c3,Organizational Behavior,completed,1.0
+s592,c1,Business Communication,enrolled,
+s593,c4,Corporate Governance and Ethics,completed,5.0
+s594,c4,Corporate Governance and Ethics,enrolled,
+s595,c4,Corporate Governance and Ethics,enrolled,
+s596,c2,Strategic management,enrolled,
+s597,c1,Business Communication,enrolled,
+s597,c4,Corporate Governance and Ethics,enrolled,
+s598,c1,Business Communication,completed,4.0
+s599,c1,Business Communication,completed,4.0
+s600,c2,Strategic management,completed,3.0
+s600,c1,Business Communication,enrolled,
+s601,c1,Business Communication,enrolled,
+s602,c4,Corporate Governance and Ethics,completed,5.0
+s602,c2,Strategic management,enrolled,
+s603,c2,Strategic management,enrolled,
+s603,c3,Organizational Behavior,completed,5.0
+s604,c2,Strategic management,enrolled,
+s605,c4,Corporate Governance and Ethics,completed,5.0
+s606,c1,Business Communication,enrolled,
+s606,c3,Organizational Behavior,enrolled,
+s607,c4,Corporate Governance and Ethics,completed,4.0
+s608,c1,Business Communication,completed,4.0
+s609,c3,Organizational Behavior,enrolled,
+s609,c1,Business Communication,completed,1.0
+s610,c3,Organizational Behavior,completed,1.0
+s610,c2,Strategic management,completed,1.0
+s611,c3,Organizational Behavior,completed,3.0
+s612,c1,Business Communication,completed,5.0
+s613,c1,Business Communication,enrolled,
+s613,c4,Corporate Governance and Ethics,enrolled,
+s614,c3,Organizational Behavior,enrolled,
+s615,c3,Organizational Behavior,enrolled,
+s616,c3,Organizational Behavior,completed,2.0
+s616,c2,Strategic management,completed,5.0
+s617,c1,Business Communication,completed,2.0
+s617,c3,Organizational Behavior,enrolled,
+s618,c3,Organizational Behavior,completed,4.0
+s619,c1,Business Communication,enrolled,
+s620,c2,Strategic management,completed,2.0
+s621,c1,Business Communication,completed,1.0
+s621,c4,Corporate Governance and Ethics,enrolled,
+s622,c3,Organizational Behavior,completed,1.0
+s623,c3,Organizational Behavior,enrolled,
+s623,c2,Strategic management,enrolled,
+s624,c1,Business Communication,enrolled,
+s624,c2,Strategic management,enrolled,
+s625,c3,Organizational Behavior,enrolled,
+s625,c2,Strategic management,completed,4.0
+s626,c4,Corporate Governance and Ethics,enrolled,
+s627,c1,Business Communication,completed,1.0
+s627,c4,Corporate Governance and Ethics,enrolled,
+s628,c1,Business Communication,completed,5.0
+s628,c4,Corporate Governance and Ethics,enrolled,
+s629,c3,Organizational Behavior,completed,2.0
+s630,c4,Corporate Governance and Ethics,enrolled,
+s631,c3,Organizational Behavior,completed,3.0
+s632,c2,Strategic management,enrolled,
+s633,c4,Corporate Governance and Ethics,completed,1.0
+s634,c1,Business Communication,enrolled,
+s634,c4,Corporate Governance and Ethics,enrolled,
+s635,c4,Corporate Governance and Ethics,completed,1.0
+s635,c3,Organizational Behavior,completed,1.0
+s636,c2,Strategic management,enrolled,
+s637,c4,Corporate Governance and Ethics,completed,5.0
+s638,c4,Corporate Governance and Ethics,completed,2.0
+s638,c3,Organizational Behavior,completed,2.0
+s639,c3,Organizational Behavior,enrolled,
+s640,c2,Strategic management,completed,5.0
+s640,c4,Corporate Governance and Ethics,completed,1.0
+s641,c1,Business Communication,enrolled,
+s642,c1,Business Communication,enrolled,
+s642,c4,Corporate Governance and Ethics,enrolled,
+s643,c3,Organizational Behavior,enrolled,
+s644,c2,Strategic management,enrolled,
+s645,c1,Business Communication,completed,5.0
+s645,c4,Corporate Governance and Ethics,enrolled,
+s646,c1,Business Communication,enrolled,
+s647,c2,Strategic management,completed,5.0
+s647,c1,Business Communication,enrolled,
+s648,c4,Corporate Governance and Ethics,enrolled,
+s649,c4,Corporate Governance and Ethics,enrolled,
+s650,c4,Corporate Governance and Ethics,completed,2.0
+s650,c1,Business Communication,completed,1.0
+s651,c2,Strategic management,enrolled,
+s652,c4,Corporate Governance and Ethics,completed,4.0
+s653,c4,Corporate Governance and Ethics,enrolled,
+s653,c3,Organizational Behavior,enrolled,
+s654,c2,Strategic management,completed,5.0
+s654,c3,Organizational Behavior,enrolled,
+s655,c3,Organizational Behavior,completed,2.0
+s656,c1,Business Communication,enrolled,
+s656,c2,Strategic management,completed,4.0
+s657,c3,Organizational Behavior,enrolled,
+s658,c2,Strategic management,completed,1.0
+s659,c2,Strategic management,enrolled,
+s659,c3,Organizational Behavior,enrolled,
+s660,c1,Business Communication,enrolled,
+s661,c4,Corporate Governance and Ethics,enrolled,
+s662,c4,Corporate Governance and Ethics,completed,1.0
+s662,c3,Organizational Behavior,completed,3.0
+s663,c4,Corporate Governance and Ethics,completed,5.0
+s663,c2,Strategic management,completed,5.0
+s664,c4,Corporate Governance and Ethics,completed,3.0
+s665,c2,Strategic management,enrolled,
+s666,c1,Business Communication,completed,1.0
+s667,c2,Strategic management,enrolled,
+s667,c4,Corporate Governance and Ethics,enrolled,
+s668,c3,Organizational Behavior,completed,5.0
+s668,c2,Strategic management,enrolled,
+s669,c4,Corporate Governance and Ethics,completed,4.0
+s670,c4,Corporate Governance and Ethics,completed,2.0
+s671,c3,Organizational Behavior,enrolled,
+s671,c2,Strategic management,enrolled,
+s672,c3,Organizational Behavior,enrolled,
+s673,c2,Strategic management,enrolled,
+s673,c3,Organizational Behavior,enrolled,
+s674,c2,Strategic management,completed,3.0
+s674,c1,Business Communication,enrolled,
+s675,c3,Organizational Behavior,completed,2.0
+s675,c1,Business Communication,enrolled,
+s676,c3,Organizational Behavior,enrolled,
+s676,c1,Business Communication,enrolled,
+s677,c4,Corporate Governance and Ethics,enrolled,
+s677,c1,Business Communication,enrolled,
+s678,c2,Strategic management,enrolled,
+s678,c4,Corporate Governance and Ethics,enrolled,
+s679,c1,Business Communication,enrolled,
+s680,c3,Organizational Behavior,enrolled,
+s680,c1,Business Communication,completed,1.0
+s681,c2,Strategic management,enrolled,
+s682,c3,Organizational Behavior,completed,3.0
+s682,c4,Corporate Governance and Ethics,enrolled,
+s683,c4,Corporate Governance and Ethics,completed,4.0
+s684,c1,Business Communication,completed,5.0
+s684,c2,Strategic management,enrolled,
+s685,c1,Business Communication,completed,2.0
+s686,c1,Business Communication,completed,2.0
+s687,c4,Corporate Governance and Ethics,enrolled,
+s688,c3,Organizational Behavior,enrolled,
+s688,c4,Corporate Governance and Ethics,completed,1.0
+s689,c1,Business Communication,completed,5.0
+s690,c3,Organizational Behavior,completed,2.0
+s691,c3,Organizational Behavior,enrolled,
+s691,c4,Corporate Governance and Ethics,completed,5.0
+s692,c2,Strategic management,enrolled,
+s692,c4,Corporate Governance and Ethics,enrolled,
+s693,c3,Organizational Behavior,enrolled,
+s693,c4,Corporate Governance and Ethics,enrolled,
+s694,c3,Organizational Behavior,completed,3.0
+s695,c2,Strategic management,completed,5.0
+s696,c3,Organizational Behavior,completed,5.0
+s697,c3,Organizational Behavior,enrolled,
+s697,c1,Business Communication,completed,1.0
+s698,c2,Strategic management,enrolled,
+s699,c1,Business Communication,completed,5.0
+s700,c4,Corporate Governance and Ethics,enrolled,
+s700,c2,Strategic management,completed,3.0
+s701,c2,Strategic management,completed,5.0
+s702,c3,Organizational Behavior,enrolled,
+s703,c1,Business Communication,completed,5.0
+s704,c1,Business Communication,enrolled,
+s704,c4,Corporate Governance and Ethics,enrolled,
+s705,c1,Business Communication,completed,2.0
+s706,c2,Strategic management,completed,1.0
+s706,c4,Corporate Governance and Ethics,enrolled,
+s707,c1,Business Communication,completed,5.0
+s708,c3,Organizational Behavior,enrolled,
+s709,c3,Organizational Behavior,completed,3.0
+s709,c2,Strategic management,enrolled,
+s710,c4,Corporate Governance and Ethics,enrolled,
+s711,c2,Strategic management,completed,5.0
+s712,c1,Business Communication,enrolled,
+s712,c2,Strategic management,completed,4.0
+s713,c3,Organizational Behavior,completed,4.0
+s713,c4,Corporate Governance and Ethics,enrolled,
+s714,c3,Organizational Behavior,completed,4.0
+s714,c1,Business Communication,completed,1.0
+s715,c2,Strategic management,enrolled,
+s715,c4,Corporate Governance and Ethics,enrolled,
+s716,c3,Organizational Behavior,enrolled,
+s717,c1,Business Communication,enrolled,
+s718,c1,Business Communication,completed,2.0
+s719,c4,Corporate Governance and Ethics,completed,5.0
+s719,c1,Business Communication,enrolled,
+s720,c1,Business Communication,completed,5.0
+s720,c4,Corporate Governance and Ethics,enrolled,
+s721,c1,Business Communication,completed,2.0
+s721,c2,Strategic management,enrolled,
+s722,c4,Corporate Governance and Ethics,completed,1.0
+s722,c3,Organizational Behavior,completed,3.0
+s723,c4,Corporate Governance and Ethics,enrolled,
+s724,c2,Strategic management,enrolled,
+s724,c4,Corporate Governance and Ethics,completed,5.0
+s725,c3,Organizational Behavior,enrolled,
+s726,c3,Organizational Behavior,completed,2.0
+s726,c1,Business Communication,enrolled,
+s727,c4,Corporate Governance and Ethics,enrolled,
+s728,c2,Strategic management,completed,3.0
+s728,c3,Organizational Behavior,completed,2.0
+s729,c4,Corporate Governance and Ethics,enrolled,
+s729,c1,Business Communication,completed,3.0
+s730,c1,Business Communication,completed,3.0
+s731,c1,Business Communication,enrolled,
+s732,c2,Strategic management,enrolled,
+s732,c3,Organizational Behavior,enrolled,
+s733,c4,Corporate Governance and Ethics,completed,5.0
+s733,c2,Strategic management,completed,1.0
+s734,c4,Corporate Governance and Ethics,completed,1.0
+s735,c3,Organizational Behavior,completed,3.0
+s735,c4,Corporate Governance and Ethics,completed,1.0
+s736,c1,Business Communication,completed,3.0
+s737,c4,Corporate Governance and Ethics,enrolled,
+s737,c1,Business Communication,enrolled,
+s738,c2,Strategic management,enrolled,
+s738,c1,Business Communication,enrolled,
+s739,c3,Organizational Behavior,completed,4.0
+s739,c1,Business Communication,enrolled,
+s740,c4,Corporate Governance and Ethics,enrolled,
+s741,c4,Corporate Governance and Ethics,completed,2.0
+s741,c1,Business Communication,enrolled,
+s742,c4,Corporate Governance and Ethics,completed,3.0
+s742,c3,Organizational Behavior,completed,3.0
+s743,c2,Strategic management,enrolled,
+s744,c2,Strategic management,enrolled,
+s745,c2,Strategic management,completed,4.0
+s746,c1,Business Communication,enrolled,
+s746,c2,Strategic management,completed,3.0
+s747,c2,Strategic management,completed,1.0
+s747,c1,Business Communication,completed,5.0
+s748,c1,Business Communication,enrolled,
+s748,c3,Organizational Behavior,enrolled,
+s749,c3,Organizational Behavior,enrolled,
+s749,c1,Business Communication,completed,4.0
+s750,c4,Corporate Governance and Ethics,enrolled,
+s750,c1,Business Communication,enrolled,
+s751,c2,Strategic management,enrolled,
+s752,c3,Organizational Behavior,enrolled,
+s752,c1,Business Communication,completed,1.0
+s753,c1,Business Communication,completed,1.0
+s753,c2,Strategic management,enrolled,
+s754,c3,Organizational Behavior,completed,3.0
+s755,c1,Business Communication,enrolled,
+s755,c3,Organizational Behavior,completed,3.0
+s756,c1,Business Communication,completed,2.0
+s756,c2,Strategic management,enrolled,
+s757,c1,Business Communication,completed,1.0
+s757,c3,Organizational Behavior,completed,2.0
+s758,c1,Business Communication,completed,2.0
+s758,c3,Organizational Behavior,enrolled,
+s759,c1,Business Communication,completed,3.0
+s759,c2,Strategic management,enrolled,
+s760,c3,Organizational Behavior,completed,2.0
+s760,c1,Business Communication,enrolled,
+s761,c3,Organizational Behavior,enrolled,
+s762,c2,Strategic management,completed,4.0
+s762,c1,Business Communication,completed,4.0
+s763,c2,Strategic management,completed,5.0
+s764,c4,Corporate Governance and Ethics,completed,3.0
+s764,c3,Organizational Behavior,enrolled,
+s765,c2,Strategic management,completed,1.0
+s765,c3,Organizational Behavior,completed,3.0
+s766,c4,Corporate Governance and Ethics,completed,5.0
+s766,c2,Strategic management,completed,1.0
+s767,c2,Strategic management,enrolled,
+s767,c1,Business Communication,enrolled,
+s768,c1,Business Communication,enrolled,
+s769,c1,Business Communication,completed,4.0
+s770,c4,Corporate Governance and Ethics,completed,4.0
+s770,c1,Business Communication,completed,5.0
+s771,c2,Strategic management,completed,3.0
+s771,c4,Corporate Governance and Ethics,completed,4.0
+s772,c2,Strategic management,completed,4.0
+s773,c3,Organizational Behavior,enrolled,
+s774,c4,Corporate Governance and Ethics,enrolled,
+s775,c2,Strategic management,enrolled,
+s775,c1,Business Communication,enrolled,
+s776,c2,Strategic management,completed,5.0
+s776,c1,Business Communication,enrolled,
+s777,c1,Business Communication,enrolled,
+s778,c3,Organizational Behavior,enrolled,
+s779,c3,Organizational Behavior,enrolled,
+s779,c1,Business Communication,completed,1.0
+s780,c4,Corporate Governance and Ethics,completed,1.0
+s781,c1,Business Communication,enrolled,
+s781,c4,Corporate Governance and Ethics,completed,1.0
+s782,c4,Corporate Governance and Ethics,completed,4.0
+s783,c4,Corporate Governance and Ethics,enrolled,
+s784,c3,Organizational Behavior,completed,3.0
+s785,c2,Strategic management,enrolled,
+s785,c3,Organizational Behavior,completed,1.0
+s786,c2,Strategic management,enrolled,
+s787,c3,Organizational Behavior,enrolled,
+s787,c4,Corporate Governance and Ethics,enrolled,
+s788,c1,Business Communication,enrolled,
+s788,c4,Corporate Governance and Ethics,enrolled,
+s789,c1,Business Communication,completed,5.0
+s790,c4,Corporate Governance and Ethics,enrolled,
+s790,c3,Organizational Behavior,enrolled,
+s791,c3,Organizational Behavior,completed,1.0
+s791,c4,Corporate Governance and Ethics,completed,5.0
+s792,c1,Business Communication,completed,2.0
+s792,c2,Strategic management,completed,1.0
+s793,c1,Business Communication,completed,3.0
+s793,c3,Organizational Behavior,completed,1.0
+s794,c2,Strategic management,completed,5.0
+s794,c3,Organizational Behavior,enrolled,
+s795,c1,Business Communication,enrolled,
+s795,c2,Strategic management,enrolled,
+s796,c4,Corporate Governance and Ethics,completed,5.0
+s796,c2,Strategic management,enrolled,
+s797,c3,Organizational Behavior,completed,2.0
+s798,c2,Strategic management,enrolled,
+s798,c3,Organizational Behavior,completed,3.0
+s799,c4,Corporate Governance and Ethics,enrolled,
+s800,c1,Business Communication,enrolled,
+s800,c4,Corporate Governance and Ethics,enrolled,
+s801,c3,Organizational Behavior,completed,3.0
+s801,c2,Strategic management,enrolled,
+s802,c1,Business Communication,enrolled,
+s803,c4,Corporate Governance and Ethics,completed,3.0
+s804,c3,Organizational Behavior,completed,1.0
+s804,c4,Corporate Governance and Ethics,enrolled,
+s805,c3,Organizational Behavior,enrolled,
+s805,c2,Strategic management,completed,4.0
+s806,c1,Business Communication,enrolled,
+s806,c4,Corporate Governance and Ethics,completed,5.0
+s807,c4,Corporate Governance and Ethics,completed,5.0
+s807,c2,Strategic management,completed,4.0
+s808,c3,Organizational Behavior,completed,2.0
+s808,c4,Corporate Governance and Ethics,enrolled,
+s809,c3,Organizational Behavior,completed,2.0
+s809,c4,Corporate Governance and Ethics,completed,2.0
+s810,c3,Organizational Behavior,completed,2.0
+s810,c2,Strategic management,enrolled,
+s811,c2,Strategic management,completed,4.0
+s811,c3,Organizational Behavior,completed,1.0
+s812,c3,Organizational Behavior,enrolled,
+s813,c4,Corporate Governance and Ethics,completed,1.0
+s814,c3,Organizational Behavior,enrolled,
+s815,c3,Organizational Behavior,enrolled,
+s816,c2,Strategic management,enrolled,
+s816,c1,Business Communication,completed,3.0
+s817,c3,Organizational Behavior,completed,3.0
+s818,c1,Business Communication,enrolled,
+s818,c3,Organizational Behavior,enrolled,
+s819,c3,Organizational Behavior,completed,2.0
+s820,c1,Business Communication,enrolled,
+s821,c3,Organizational Behavior,completed,1.0
+s822,c1,Business Communication,enrolled,
+s822,c4,Corporate Governance and Ethics,completed,4.0
+s823,c3,Organizational Behavior,enrolled,
+s823,c2,Strategic management,completed,5.0
+s824,c3,Organizational Behavior,completed,3.0
+s824,c2,Strategic management,enrolled,
+s825,c1,Business Communication,enrolled,
+s825,c2,Strategic management,completed,5.0
+s826,c2,Strategic management,enrolled,
+s827,c3,Organizational Behavior,completed,2.0
+s827,c4,Corporate Governance and Ethics,enrolled,
+s828,c2,Strategic management,enrolled,
+s828,c1,Business Communication,completed,3.0
+s829,c3,Organizational Behavior,enrolled,
+s829,c1,Business Communication,completed,3.0
+s830,c4,Corporate Governance and Ethics,completed,4.0
+s830,c3,Organizational Behavior,completed,5.0
+s831,c3,Organizational Behavior,completed,5.0
+s831,c4,Corporate Governance and Ethics,completed,1.0
+s832,c4,Corporate Governance and Ethics,enrolled,
+s832,c3,Organizational Behavior,enrolled,
+s833,c1,Business Communication,enrolled,
+s833,c3,Organizational Behavior,completed,4.0
+s834,c2,Strategic management,completed,2.0
+s834,c4,Corporate Governance and Ethics,completed,3.0
+s835,c4,Corporate Governance and Ethics,enrolled,
+s836,c2,Strategic management,enrolled,
+s837,c1,Business Communication,enrolled,
+s837,c2,Strategic management,enrolled,
+s838,c3,Organizational Behavior,enrolled,
+s838,c2,Strategic management,completed,2.0
+s839,c3,Organizational Behavior,enrolled,
+s840,c3,Organizational Behavior,enrolled,
+s840,c4,Corporate Governance and Ethics,completed,3.0
+s841,c1,Business Communication,completed,3.0
+s842,c1,Business Communication,enrolled,
+s842,c2,Strategic management,enrolled,
+s843,c4,Corporate Governance and Ethics,completed,5.0
+s844,c1,Business Communication,enrolled,
+s845,c2,Strategic management,completed,2.0
+s845,c4,Corporate Governance and Ethics,completed,4.0
+s846,c4,Corporate Governance and Ethics,enrolled,
+s846,c1,Business Communication,enrolled,
+s847,c3,Organizational Behavior,completed,2.0
+s848,c2,Strategic management,enrolled,
+s848,c4,Corporate Governance and Ethics,completed,2.0
+s849,c1,Business Communication,enrolled,
+s849,c2,Strategic management,completed,4.0
+s850,c1,Business Communication,completed,3.0
+s850,c2,Strategic management,completed,3.0
+s851,c1,Business Communication,enrolled,
+s852,c1,Business Communication,enrolled,
+s852,c3,Organizational Behavior,enrolled,
+s853,c2,Strategic management,completed,1.0
+s854,c4,Corporate Governance and Ethics,completed,2.0
+s854,c1,Business Communication,completed,5.0
+s855,c2,Strategic management,completed,5.0
+s856,c4,Corporate Governance and Ethics,completed,2.0
+s857,c2,Strategic management,enrolled,
+s857,c1,Business Communication,completed,1.0
+s858,c2,Strategic management,completed,5.0
+s859,c1,Business Communication,completed,1.0
+s860,c2,Strategic management,completed,2.0
+s860,c1,Business Communication,completed,1.0
+s861,c2,Strategic management,completed,5.0
+s862,c3,Organizational Behavior,completed,4.0
+s863,c4,Corporate Governance and Ethics,enrolled,
+s864,c4,Corporate Governance and Ethics,enrolled,
+s865,c3,Organizational Behavior,enrolled,
+s865,c2,Strategic management,enrolled,
+s866,c2,Strategic management,completed,2.0
+s867,c4,Corporate Governance and Ethics,enrolled,
+s867,c3,Organizational Behavior,enrolled,
+s868,c3,Organizational Behavior,completed,5.0
+s869,c4,Corporate Governance and Ethics,completed,3.0
+s869,c3,Organizational Behavior,enrolled,
+s870,c4,Corporate Governance and Ethics,completed,1.0
+s871,c2,Strategic management,completed,3.0
+s871,c3,Organizational Behavior,completed,4.0
+s872,c1,Business Communication,completed,4.0
+s873,c2,Strategic management,enrolled,
+s873,c3,Organizational Behavior,enrolled,
+s874,c3,Organizational Behavior,completed,1.0
+s874,c4,Corporate Governance and Ethics,completed,3.0
+s875,c3,Organizational Behavior,enrolled,
+s876,c4,Corporate Governance and Ethics,completed,2.0
+s877,c3,Organizational Behavior,completed,5.0
+s877,c2,Strategic management,enrolled,
+s878,c3,Organizational Behavior,completed,3.0
+s878,c2,Strategic management,enrolled,
+s879,c3,Organizational Behavior,completed,5.0
+s879,c2,Strategic management,completed,5.0
+s880,c2,Strategic management,enrolled,
+s880,c3,Organizational Behavior,enrolled,
+s881,c1,Business Communication,enrolled,
+s882,c1,Business Communication,completed,2.0
+s883,c2,Strategic management,completed,5.0
+s884,c4,Corporate Governance and Ethics,completed,2.0
+s885,c1,Business Communication,enrolled,
+s885,c3,Organizational Behavior,enrolled,
+s886,c2,Strategic management,enrolled,
+s887,c4,Corporate Governance and Ethics,completed,1.0
+s887,c3,Organizational Behavior,enrolled,
+s888,c1,Business Communication,completed,2.0
+s889,c3,Organizational Behavior,completed,3.0
+s889,c1,Business Communication,completed,4.0
+s890,c4,Corporate Governance and Ethics,completed,1.0
+s891,c2,Strategic management,enrolled,
+s891,c3,Organizational Behavior,enrolled,
+s892,c1,Business Communication,completed,3.0
+s892,c2,Strategic management,completed,3.0
+s893,c4,Corporate Governance and Ethics,enrolled,
+s894,c1,Business Communication,enrolled,
+s895,c1,Business Communication,enrolled,
+s895,c2,Strategic management,completed,1.0
+s896,c3,Organizational Behavior,completed,2.0
+s897,c2,Strategic management,completed,3.0
+s897,c4,Corporate Governance and Ethics,enrolled,
+s898,c1,Business Communication,enrolled,
+s899,c3,Organizational Behavior,completed,2.0
+s900,c1,Business Communication,enrolled,
+s901,c2,Strategic management,completed,3.0
+s901,c4,Corporate Governance and Ethics,completed,4.0
+s902,c1,Business Communication,completed,3.0
+s902,c2,Strategic management,enrolled,
+s903,c1,Business Communication,enrolled,
+s903,c4,Corporate Governance and Ethics,enrolled,
+s904,c3,Organizational Behavior,completed,1.0
+s905,c4,Corporate Governance and Ethics,enrolled,
+s906,c2,Strategic management,enrolled,
+s906,c4,Corporate Governance and Ethics,enrolled,
+s907,c3,Organizational Behavior,completed,4.0
+s907,c4,Corporate Governance and Ethics,enrolled,
+s908,c4,Corporate Governance and Ethics,enrolled,
+s909,c1,Business Communication,completed,4.0
+s910,c4,Corporate Governance and Ethics,completed,2.0
+s910,c1,Business Communication,enrolled,
+s911,c3,Organizational Behavior,enrolled,
+s912,c2,Strategic management,enrolled,
+s912,c1,Business Communication,enrolled,
+s913,c3,Organizational Behavior,completed,3.0
+s913,c1,Business Communication,completed,5.0
+s914,c2,Strategic management,completed,3.0
+s914,c4,Corporate Governance and Ethics,completed,4.0
+s915,c3,Organizational Behavior,completed,2.0
+s915,c2,Strategic management,enrolled,
+s916,c2,Strategic management,enrolled,
+s917,c1,Business Communication,completed,4.0
+s918,c4,Corporate Governance and Ethics,enrolled,
+s918,c1,Business Communication,enrolled,
+s919,c2,Strategic management,completed,5.0
+s919,c1,Business Communication,enrolled,
+s920,c4,Corporate Governance and Ethics,completed,4.0
+s921,c1,Business Communication,completed,2.0
+s921,c2,Strategic management,enrolled,
+s922,c2,Strategic management,enrolled,
+s922,c3,Organizational Behavior,enrolled,
+s923,c2,Strategic management,completed,4.0
+s924,c1,Business Communication,completed,2.0
+s925,c2,Strategic management,completed,5.0
+s926,c4,Corporate Governance and Ethics,completed,2.0
+s926,c1,Business Communication,enrolled,
+s927,c1,Business Communication,completed,2.0
+s927,c2,Strategic management,enrolled,
+s928,c3,Organizational Behavior,completed,4.0
+s928,c2,Strategic management,completed,2.0
+s929,c2,Strategic management,enrolled,
+s929,c4,Corporate Governance and Ethics,enrolled,
+s930,c3,Organizational Behavior,completed,1.0
+s930,c4,Corporate Governance and Ethics,enrolled,
+s931,c4,Corporate Governance and Ethics,enrolled,
+s931,c3,Organizational Behavior,enrolled,
+s932,c3,Organizational Behavior,enrolled,
+s933,c3,Organizational Behavior,completed,5.0
+s933,c1,Business Communication,completed,3.0
+s934,c2,Strategic management,completed,4.0
+s935,c1,Business Communication,enrolled,
+s936,c4,Corporate Governance and Ethics,completed,4.0
+s937,c3,Organizational Behavior,enrolled,
+s937,c1,Business Communication,enrolled,
+s938,c4,Corporate Governance and Ethics,completed,1.0
+s938,c3,Organizational Behavior,completed,4.0
+s939,c1,Business Communication,completed,4.0
+s940,c4,Corporate Governance and Ethics,enrolled,
+s940,c3,Organizational Behavior,completed,3.0
+s941,c3,Organizational Behavior,completed,4.0
+s941,c4,Corporate Governance and Ethics,enrolled,
+s942,c3,Organizational Behavior,completed,5.0
+s943,c4,Corporate Governance and Ethics,completed,1.0
+s943,c2,Strategic management,completed,1.0
+s944,c4,Corporate Governance and Ethics,enrolled,
+s944,c3,Organizational Behavior,completed,4.0
+s945,c2,Strategic management,completed,3.0
+s946,c3,Organizational Behavior,enrolled,
+s947,c2,Strategic management,completed,5.0
+s948,c4,Corporate Governance and Ethics,completed,4.0
+s948,c1,Business Communication,enrolled,
+s949,c4,Corporate Governance and Ethics,enrolled,
+s950,c2,Strategic management,enrolled,
+s951,c4,Corporate Governance and Ethics,completed,3.0
+s951,c1,Business Communication,enrolled,
+s952,c1,Business Communication,enrolled,
+s953,c3,Organizational Behavior,enrolled,
+s954,c1,Business Communication,enrolled,
+s954,c3,Organizational Behavior,completed,5.0
+s955,c3,Organizational Behavior,completed,4.0
+s956,c4,Corporate Governance and Ethics,enrolled,
+s956,c2,Strategic management,enrolled,
+s957,c1,Business Communication,completed,5.0
+s957,c4,Corporate Governance and Ethics,completed,5.0
+s958,c1,Business Communication,enrolled,
+s958,c2,Strategic management,enrolled,
+s959,c4,Corporate Governance and Ethics,completed,5.0
+s960,c2,Strategic management,enrolled,
+s961,c3,Organizational Behavior,enrolled,
+s962,c2,Strategic management,enrolled,
+s963,c2,Strategic management,completed,2.0
+s964,c1,Business Communication,enrolled,
+s965,c1,Business Communication,enrolled,
+s965,c4,Corporate Governance and Ethics,completed,2.0
+s966,c2,Strategic management,completed,4.0
+s967,c1,Business Communication,enrolled,
+s967,c3,Organizational Behavior,completed,1.0
+s968,c4,Corporate Governance and Ethics,completed,3.0
+s969,c2,Strategic management,completed,3.0
+s970,c1,Business Communication,completed,2.0
+s970,c3,Organizational Behavior,completed,1.0
+s971,c3,Organizational Behavior,completed,3.0
+s971,c2,Strategic management,enrolled,
+s972,c1,Business Communication,enrolled,
+s973,c4,Corporate Governance and Ethics,enrolled,
+s973,c3,Organizational Behavior,enrolled,
+s974,c3,Organizational Behavior,enrolled,
+s974,c2,Strategic management,completed,2.0
+s975,c2,Strategic management,completed,2.0
+s976,c4,Corporate Governance and Ethics,completed,5.0
+s976,c1,Business Communication,enrolled,
+s977,c4,Corporate Governance and Ethics,completed,2.0
+s977,c2,Strategic management,completed,5.0
+s978,c3,Organizational Behavior,completed,2.0
+s979,c1,Business Communication,completed,5.0
+s980,c1,Business Communication,completed,4.0
+s981,c3,Organizational Behavior,completed,1.0
+s981,c2,Strategic management,completed,2.0
+s982,c1,Business Communication,enrolled,
+s982,c4,Corporate Governance and Ethics,enrolled,
+s983,c1,Business Communication,completed,5.0
+s983,c3,Organizational Behavior,enrolled,
+s984,c3,Organizational Behavior,enrolled,
+s985,c3,Organizational Behavior,enrolled,
+s986,c2,Strategic management,enrolled,
+s986,c3,Organizational Behavior,completed,4.0
+s987,c2,Strategic management,enrolled,
+s987,c1,Business Communication,completed,1.0
+s988,c2,Strategic management,enrolled,
+s988,c1,Business Communication,enrolled,
+s989,c2,Strategic management,completed,1.0
+s990,c3,Organizational Behavior,completed,5.0
+s991,c1,Business Communication,completed,5.0
+s992,c1,Business Communication,enrolled,
+s992,c3,Organizational Behavior,enrolled,
+s993,c1,Business Communication,completed,1.0
+s993,c2,Strategic management,completed,1.0
+s994,c4,Corporate Governance and Ethics,enrolled,
+s994,c3,Organizational Behavior,enrolled,
+s995,c1,Business Communication,enrolled,
+s996,c1,Business Communication,completed,1.0
+s996,c4,Corporate Governance and Ethics,enrolled,
+s997,c2,Strategic management,completed,3.0
+s998,c3,Organizational Behavior,completed,1.0
+s998,c1,Business Communication,enrolled,
+s999,c4,Corporate Governance and Ethics,completed,5.0
+s999,c2,Strategic management,completed,3.0
+s1000,c4,Corporate Governance and Ethics,completed,3.0
